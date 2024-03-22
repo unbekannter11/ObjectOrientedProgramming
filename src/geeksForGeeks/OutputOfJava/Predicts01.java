@@ -1,6 +1,6 @@
 package src.geeksForGeeks.OutputOfJava;
 
-public class Predicts {
+public class Predicts01 {
     public static void main(String[] args) {
 
     }
